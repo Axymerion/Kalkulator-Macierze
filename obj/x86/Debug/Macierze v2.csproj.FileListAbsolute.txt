@@ -1,0 +1,44 @@
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\App.xbf
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\MainPage.xbf
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Macierze v2.xr.xml
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Macierze v2.exe
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Macierze v2.pdb
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\resources.pri
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\AppxManifest.xml
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Core\AppxManifest.xml
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Core\Macierze v2.exe
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Macierze v2.build.appxrecipe
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\System.Runtime.dll
+D:\Documents\Programy\C#\Macierze v2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\Macierze v2.csprojAssemblyReference.cache
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\App.g.i.cs
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\App.g.cs
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\MainPage.g.i.cs
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\MainPage.g.cs
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\App.xaml
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\MainPage.xaml
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\App.xbf
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\MainPage.xbf
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\Macierze v2.csproj.CopyComplete
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\Macierze v2.exe
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\Macierze v2.pdb
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\ResourceHandlingTask.state
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\priconfig.xml
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\priconfig.xml.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\filtered.layout.resfiles
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\excluded.layout.resfiles
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\resources.resfiles
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\resources.resfiles.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\pri.resfiles
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\pri.resfiles.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\qualifiers.txt
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\ProjectArchitectures.txt
+D:\Documents\Programy\C#\Macierze v2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885562160000000.json
